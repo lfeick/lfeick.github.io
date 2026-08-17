@@ -9,6 +9,6 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Economics at the University of Utah.
 
-My research focuses on post-Keynesian macroeconomics, with an emphasis on Goodwinian and Minskyan traditions. Combining theoretical and empirical approaches, I use nonlinear dynamic modeling to study the endogenous dynamics of real-financial cycles and their interactions with economic growth and income distribution.
+My research lies at the intersection of macroeconomics and finance and is broadly informed by post-Keynesian thought. Combining theoretical and empirical approaches, I study real-financial cycles and their connections to economic growth and income distribution, with particular interest in nonlinear dynamic systems.
 
-I have experience teaching Macroeconomics, Monetary Economics, and History of Economic Thought at the undergraduate and graduate level.
+I have experience teaching Macroeconomics, Monetary Economics, and History of Economic Thought at the undergraduate and graduate levels.
