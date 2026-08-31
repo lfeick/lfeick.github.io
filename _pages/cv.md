@@ -1,7 +1,7 @@
-You can download a copy of my CV [here]([EXACT-PDF-URL](https://lfeick.github.io/files/Eick_CV.pdf)).
+---
+permalink: /cv/
+title: "CV"
+author_profile: true
+---
 
-<embed
-  src="[EXACT-PDF-URL](https://lfeick.github.io/files/Eick_CV.pdf)"
-  type="application/pdf"
-  width="100%"
-  height="1000px">
+You can download a copy of my CV [here](/files/Eick_CV.pdf).
