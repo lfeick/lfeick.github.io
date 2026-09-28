@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-I have served as instructor of record for undergraduate and graduate economics courses at the University of Utah, including monetary economics, intermediate macroeconomics, and the history of economic thought.
+I have served as instructor of record for undergraduate and graduate economics courses at the University of Utah, including Money and Banking, Intermediate Macroeconomics, and the History of Economic Thought.
 
 ## University of Utah
 
@@ -21,13 +21,7 @@ Fall 2024, Summer 2024
 Undergraduate and graduate-level course
 
 ### Teaching Assistant
-
-- China and the Global Economy (ECON 5420), Spring 2024
-- Principles of Macroeconomics (ECON 2020), Spring 2024
-- History of Economic Doctrines (ECON 5060/6060), Fall 2023
-- Money and Banking (ECON 3200), Fall 2023
-- Principles of Microeconomics (ECON 2010), Spring 2023
-- Principles of Microeconomics (ECON 2010), Fall 2022
+Intermediate Macroeconomics (ECON 4020), Principles of Macroeconomics (ECON 2020), China and the Global Economy (ECON 5420), History of Economic Doctrines (ECON 5060/6060), Money and Banking (ECON 3200), Principles of Microeconomics (ECON 2010).
 
 ## Utah Tech University
 
