@@ -7,7 +7,7 @@ author_profile: true
 You can download a copy of my CV [here](/files/Eick_CV.pdf).
 
 <object
-  data="/files/Eick_CV.pdf"
+  data="/files/Eick_CV.pdf?v=20260928"
   type="application/pdf"
   width="100%"
   height="1000px">
