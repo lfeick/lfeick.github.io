@@ -4,10 +4,10 @@ title: "CV"
 author_profile: true
 ---
 
-You can download a copy of my CV [here](/files/Eick_CV.pdf).
+You can download a copy of my CV [here]().
 
 <object
-  data="/files/Eick_CV.pdf?v=20260928"
+  data=""
   type="application/pdf"
   width="100%"
   height="1000px">
