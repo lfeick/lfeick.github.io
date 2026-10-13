@@ -24,14 +24,15 @@ with H. A. Aguilar Filho
 **Real–Financial Cycles and External Finance: Bridging Macroeconomic and Firm-Level Evidence**  
 Job Market Paper.
 
+**Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
+With J. Weber  
+Work in progress.
+
 **Interest Rates and Capital Accumulation Regimes in Brazil**  
 with A. M. Cunha   
 
 [Working Paper](https://www.boeckler.de/data/downloads/IMK/FMM%20Konferenz%202023/v_2023_10_20_eick.pdf){: .btn .btn--primary}
 
-**Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
-With J. Weber  
-Work in progress.
 
 ## Other Publications
 
