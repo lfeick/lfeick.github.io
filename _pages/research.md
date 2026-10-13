@@ -8,7 +8,7 @@ author_profile: true
 
 **Pseudo, or not? Neo-Goodwinian growth cycles with financial linkages**  
 with Rudiger von Arnim  
-*Metroeconomica*, 2025  
+*Metroeconomica*,77:4, 422-437, 2026.  
 
 [Published version](https://doi.org/10.1111/meca.70015){: .btn .btn--primary}
 
@@ -25,13 +25,12 @@ with H. A. Aguilar Filho
 Job Market Paper.
 
 **Interest Rates and Capital Accumulation Regimes in Brazil**  
-with A. M. Cunha  
-Working paper. Accepted for the 27th FMM Conference, Berlin, 2023.  
+with A. M. Cunha   
 
-[Manuscript](https://www.boeckler.de/data/downloads/IMK/FMM%20Konferenz%202023/v_2023_10_20_eick.pdf){: .btn .btn--primary}
+[Working Paper](https://www.boeckler.de/data/downloads/IMK/FMM%20Konferenz%202023/v_2023_10_20_eick.pdf){: .btn .btn--primary}
 
 **Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
-With J. Weber
+With J. Weber  
 Work in progress.
 
 ## Other Publications
