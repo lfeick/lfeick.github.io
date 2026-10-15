@@ -21,8 +21,10 @@ with H. A. Aguilar Filho
 
 ## Works in Progress
 
-**Real–Financial Cycles and External Finance: Bridging Macroeconomic and Firm-Level Evidence**  
+**Minsky and Tobin Cycles: Bridging Macroeconomic and Firm-Level Evidence**  
 Job Market Paper.
+
+[Working Paper](/files/Eick_JMP.pdf){: .btn .btn--primary}
 
 **Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
 With J. Weber  
