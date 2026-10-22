@@ -22,7 +22,7 @@ with H. A. Aguilar Filho
 ## Working Papers
 
 **Minsky and Tobin Cycles: Bridging Macroeconomic and Firm-Level Evidence**  
-Job Market Paper.
+Job Market Paper. Submitted.
 
 [Working Paper](/files/Eick_JMP.pdf){: .btn .btn--primary}
 
@@ -36,7 +36,7 @@ with A. M. Cunha
 
 **Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
 With J. Weber  
-Work in progress.
+Grant proposal Submitted.
 
 ## Other Publications
 
