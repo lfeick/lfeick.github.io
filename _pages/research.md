@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Publications
+## Peer-Reviewed Publications
 
 **Pseudo, or not? Neo-Goodwinian growth cycles with financial linkages**  
 with Rudiger von Arnim  
@@ -19,22 +19,24 @@ with H. A. Aguilar Filho
 [Published version](https://www.periodicos.uem.br/ojs/index.php/EconRev/article/view/50611){: .btn .btn--primary}
 
 
-## Works in Progress
+## Working Papers
 
 **Minsky and Tobin Cycles: Bridging Macroeconomic and Firm-Level Evidence**  
 Job Market Paper.
 
 [Working Paper](/files/Eick_JMP.pdf){: .btn .btn--primary}
 
-**Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
-With J. Weber  
-Work in progress.
 
 **Interest Rates and Capital Accumulation Regimes in Brazil**  
 with A. M. Cunha   
 
 [Working Paper](https://www.boeckler.de/data/downloads/IMK/FMM%20Konferenz%202023/v_2023_10_20_eick.pdf){: .btn .btn--primary}
 
+## Work in Progress
+
+**Social Insurance as a Balance-Sheet Stabilizer: Financial Fragility and Macroeconomic Resilience in Germany**  
+With J. Weber  
+Work in progress.
 
 ## Other Publications
 
